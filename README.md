@@ -34,7 +34,6 @@ ai-debate-partner/
 │   └── app.py            # Streamlit UI
 │
 ├── requirements.txt      # Python dependencies
-├── .env                  # Your API key — never commit this
 ├── .gitignore
 └── README.md
 ```
