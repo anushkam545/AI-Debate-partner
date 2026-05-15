@@ -34,6 +34,7 @@ ai-debate-partner/
 │   └── app.py            # Streamlit UI
 │
 ├── requirements.txt      # Python dependencies
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
